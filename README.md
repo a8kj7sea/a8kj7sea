@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm A8kj</h1>
+<h1 align="left"> _  </h1>
 <h3 align="left">I'm a Java and C++ programmer, tech enthusiast, avid reader, and AI and Robotics Engineering student. I'm passionate about innovation, eager to learn, and committed to helping others in my projects while continuously developing my skills.</h3>
 
 
