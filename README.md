@@ -22,37 +22,7 @@ Hey there! I'm **A8kj**, a dedicated **Java Developer** specializing in **Minecr
 I'm always open to working with fellow developers, whether it's on **Minecraft projects**, **Discord bots**, or any other **Java-based systems**. Collaboration and sharing knowledge fuel my passion for coding!
 
 ### 📬 Contact Me
-In case you want to reach out, here’s my contact information wrapped in a Java-style snippet for all my fellow developers:
-
-```java
-@Getter
-public abstract class A8kj {
-
-  @Getter
-  public enum Contact {
-    DISCORD("a8kj");
-
-    private final String userName;
-
-    Contact(String userName) {
-      this.userName = userName;
-    }
-  }
-
-  private Set<String> interestings = Sets.newHashSet();
-
-  public A8kj() {
-    interestings.add("Embedded systems and robotics");
-    interestings.add("Java programming and frameworks like Spring Boot and Jakarta EE");
-    interestings.add("AI engineering and deep learning");
-    interestings.add("Networking..");
-    interestings.add("Backend tasks/stuff such as REST APIs");
-    interestings.add("C++/Web development");
-    interestings.add("Functional programming");
-    interestings.add("Operating systems");
-  }
-}
-```
+In case you want to reach out, here’s my contact information:
 
 - **Discord**: a8kj
 - **Email**: a8kj7sea@gmail.com
