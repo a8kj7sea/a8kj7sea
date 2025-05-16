@@ -1,1 +1,8 @@
 Hello! I'm A8kj, a passionate Java Developer specializing in crafting immersive Minecraft plugins and dynamic Discord bots. I thrive on transforming innovative ideas into reality, enhancing gameplay mechanics, and automating community interactions. My expertise lies in writing clean, scalable Java code, developing custom minigames, optimizing server performance, and designing flexible APIs. Currently, I'm delving into advanced design patterns, real-time data management with Redis, and optimizing WebSocket connections to elevate user experiences. Let's connect and collaborate on exciting projects!
+
+
+<!-- 
+
+# don't forget to update me mr.a8kj :)
+
+-->
