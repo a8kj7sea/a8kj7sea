@@ -2,7 +2,7 @@
 
 
 <details>
-  <summary>check out on projects down : </summary>
+  <summary>check out on projects down (pinned github page repo) : </summary>
     <div id="sign-sec" align="center"> 
 
 
