@@ -2,7 +2,7 @@
 
 
 <details>
-  <summary>Hi there !</summary>
+  <summary>check out on projects down : </summary>
     <div id="sign-sec" align="center"> 
 
 
